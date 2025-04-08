@@ -150,8 +150,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgements | आभार
 
-- Thanks to all contributors who have helped with the development of this project
-- Special thanks to the Nepali language community for their support and feedback
+- Thanks to all contributors9Ai0 who have helped with the development of this project 
+- Special thanks to the ai COMMUNITY for their support and feedback
 
 ---
 
